@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 Meu contato : frix131@gmail.com
 - ⚡ Fato engraçado : Na minha maquina deu certo.  Aqui está funcionando.
 
+Já trabalho como programador, entretanto, não fiz o ensino superior. Estou pensando sobre . . .
+
+
+
 Coisas variadas;
 
 Gosto da ideia de Selenium; Um browser automatizado.
