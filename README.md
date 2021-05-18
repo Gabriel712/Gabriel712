@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Magento 1.9
+- 🌱 I’m currently learning Python and Magento/Php
+- 👯 I’m looking to collaborate on Python
+- 🤔 I’m looking for help with Magento :C too hard
+- 💬 Ask me about Python
+- 📫 How to reach me: frix131@gmail.com
+- ⚡ Fun fact:  I like snakes. 
