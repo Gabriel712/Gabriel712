@@ -17,16 +17,8 @@ Here are some ideas to get you started:
 - 🔭 Atualmente trabalho com o framework Magento 1.9
 - 🌱 Estudo Python e Magento/Php
 - 👯 Collab Python
-- 🤔 Preciso de ajuda com ; Magento 1.9 / Tem algo de errado ? Limpa o cache.
-- 💬 Me pergunte sobre; Python
+- 💬 Me pergunte sobre; Python e Magento 1.9 e Cripto moedas
 - 📫 Meu contato : frix131@gmail.com
 - ⚡ Fato engraçado : Na minha maquina deu certo.  Aqui está funcionando.
 
-Já trabalho como programador, entretanto, não fiz o ensino superior. Estou pensando sobre . . .
-
-
-
-Coisas variadas;
-
-Gosto da ideia de Selenium; Um browser automatizado.
-Seguindo o mesmo principio, meu Whatsapp é automatizado.
+Já trabalho como programador e o meu novo hobby é Cripto moedas
