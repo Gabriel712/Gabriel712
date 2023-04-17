@@ -1,24 +1,28 @@
-### Olá caro visitante.
+# Olá, visitante! 👋
 
-<!--
-**Gabriel712/Gabriel712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um programador que trabalha com o framework Magento, com foco em Magento 1.9 e Magento 2. Aqui estão algumas informações sobre mim:
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Atualmente trabalho com o framework Magento 1.9
-- 🌱 Estudo Python e Magento/Php
-- 👯 Collab Python
-- 💬 Me pergunte sobre; Python e Magento 1.9 e Cripto moedas
-- 📫 Meu contato : frix131@gmail.com
-- ⚡ Fato engraçado : Na minha maquina deu certo.  Aqui está funcionando.
+- 🔭 Atualmente trabalho com os frameworks Magento 1.9 e Magento 2
+- 🌱 Estudo Python e Magento/PHP
+- 👯 Adoro colaborar em projetos open source
+- 💬 Me pergunte sobre: Magento 1.9 e 2, Python, PHP e desenvolvimento web em geral
+- 📫 Você pode entrar em contato comigo através do e-mail frix131@gmail.com
+- ⚡ Fun fact: "Programação é o ato de fazer o computador realizar tarefas que você não quer fazer" - Murray S. Miron
 
-Já trabalho como programador e o meu novo hobby é Cripto moedas
+## Frases interessantes
+
+Aqui estão algumas frases interessantes que gosto:
+
+- "O fracasso é uma oportunidade para começar de novo com mais experiência." - Henry Ford
+- "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
+- "A persistência é o caminho do êxito." - Charles Chaplin
+
+## Tecnologias que uso
+
+- PHP
+- Python
+- Magento 1.9 e 2
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma dúvida ou sugestão. Obrigado pela visita! 😄
